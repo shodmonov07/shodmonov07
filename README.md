@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi there, I’m Jamoliddin 👋
 
-<!--
-**shodmonov07/shodmonov07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Engineering Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+🎓 Studying Computer Science and Engineering at Sejong University, South Korea.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about building software, exploring Artificial Intelligence, and understanding cybersecurity.
+
+🚀 Technical Skills
+
+* Languages: Python, C
+* Backend: Django, SQL
+* Web: HTML, CSS
+* Tools: Git, GitHub, VS Code
+* AI & Data: Machine Learning, Pandas, OpenAI API, Ollama
+* Systems: Linux, Networking
+
+🎯 Current Focus
+
+* Improving Python and backend development skills
+* Building practical software projects
+* Exploring AI agents and LLM applications
+* Learning cybersecurity fundamentals
+
+🌐 Connect With Me
+
+* LinkedIn
+* Email
+
+⸻
+
+⭐ Always learning. Always building.
